@@ -92,7 +92,8 @@ def main():
 
     elif choices == 'Credits':
         st.write(
-            "Application Developed by Abhishek Tripathi, Aman Verma, Manvendra Pratap Singh.")
+            "Application Developed by Ayushman pranav.")
+        st.write("for best results use small notebook writing style images")
 
 
 if __name__ == '__main__':
